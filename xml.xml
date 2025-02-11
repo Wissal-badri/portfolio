@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Automobiles>
+    <Auto PaysOrigine="Japon">
+        <Marque>Toyota</Marque>
+        <Modele>Corolla</Modele>
+        <Annee>2023</Annee>
+        <Prix>25000</Prix>
+        <Caracteristiques>
+            <Moteur>1.8L Hybride</Moteur>
+            <Puissance>140 chevaux</Puissance>
+            <Consommation>4.5 L/100km</Consommation>
+        </Caracteristiques>
+        <Options>
+            <Option>Toit ouvrant</Option>
+            <Option>GPS intégré</Option>
+        </Options>
+    </Auto>
+    <Auto PaysOrigine="États-Unis">
+        <Marque>Tesla</Marque>
+        <Modele>Model 3</Modele>
+        <Annee>2023</Annee>
+        <Prix>55000</Prix>
+        <Caracteristiques>
+            <Moteur>Électrique</Moteur>
+            <Puissance>350 chevaux</Puissance>
+            <Consommation>0 L/100km</Consommation>
+        </Caracteristiques>
+        <Options>
+            <Option>Autopilote</Option>
+            <Option>Charge rapide</Option>
+        </Options>
+    </Auto>
+</Automobiles>
